@@ -1,0 +1,16 @@
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\bin\Debug\MemoryMapFile_Receiver.exe.config
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\bin\Debug\MemoryMapFile_Receiver.exe
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\bin\Debug\MemoryMapFile_Receiver.pdb
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.csproj.AssemblyReference.cache
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MainWindow.g.cs
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\App.g.cs
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver_MarkupCompile.cache
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver_MarkupCompile.lref
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MainWindow.baml
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.g.resources
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.Properties.Resources.resources
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.csproj.GenerateResource.cache
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.csproj.CoreCompileInputs.cache
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.exe
+C:\Users\minhchau.nguyen\Desktop\TestCodeCS\MemoryMapFile_Receiver\obj\Debug\MemoryMapFile_Receiver.pdb
